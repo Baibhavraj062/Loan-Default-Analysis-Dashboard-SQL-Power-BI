@@ -182,7 +182,7 @@ Interactive Dashboard
 ## Loan Default & Overview
 
 ```md
-![Loan Default Dashboard]()
+![Loan Default Dashboard](https://github.com/Baibhavraj062/Loan-Default-Analysis-Dashboard-SQL-Power-BI/blob/main/Snapshot_1.png)
 ```
 
 ---
@@ -190,14 +190,14 @@ Interactive Dashboard
 ## Applicant Demographics & Financial Profile
 
 ```md
-![Applicant Demographics]()
+![Applicant Demographics](https://github.com/Baibhavraj062/Loan-Default-Analysis-Dashboard-SQL-Power-BI/blob/main/Snapshot_2.png)
 ```
 
 ---
 ## Financial Risk Metrics
 
 ```md
-![Financial Risk Metrics](images/dashboard3.png)
+![Financial Risk Metrics](https://github.com/Baibhavraj062/Loan-Default-Analysis-Dashboard-SQL-Power-BI/blob/main/Snapshot_3.png)
 ```
 
 ---
